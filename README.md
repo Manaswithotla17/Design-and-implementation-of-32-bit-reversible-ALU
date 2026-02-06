@@ -1,4 +1,4 @@
-# 32-bit Reversible Arithmetic Logic Unit (ALU)
+# Design and Implementation of 32-bit Reversible ALU
 
 ## Description
 This project presents the design and implementation of a 32-bit Reversible Arithmetic Logic Unit (ALU) using Verilog HDL. The ALU is designed based on reversible logic concepts to reduce power dissipation caused by information loss. The design is implemented and simulated using Xilinx Vivado.
